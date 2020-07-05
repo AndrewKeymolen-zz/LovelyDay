@@ -30,13 +30,19 @@ Step 1. Open the app
 Step 2. Read your horoscope  
 Step 3. Be amazed  
 
+## Author
+<b>Andrew Keymolen</b>  
+Contact: andrewkeymolen@gmail.com
+Website: [andrewkeymolen.com](https://andrewkeymolen.com/)
+GitHub: [@AndrewKeymolen](https://github.com/AndrewKeymolen)
+
 ## Contributing
 
 Contributions, issues and feature requests are welcome!
 
 ## Show your support
 
-Give a ⭐ if this project helped you! And rate ⭐⭐⭐⭐⭐ on [Google Play](https://play.google.com/store/apps/details?id=xyz.skrawlr.lovelyday)
+Give a ⭐ if this project helped you! And rate ⭐⭐⭐⭐⭐ on [Google Play](https://play.google.com/store/apps/details?id=xyz.skrawlr.lovelyday)!
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
