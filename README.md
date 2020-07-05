@@ -1,6 +1,6 @@
 # Lovely Day
 
-🕉️ <b>Lovely Day, Horoscope is a beautiful and minimalist horoscope app. It's quick and easy to use! Download now and access your horoscope with daily weekly and monthly predictions in literally just on click!  </b>☯️  
+🕉️ <b>Lovely Day, Horoscope is a beautiful, minimalist and ad-free horoscope app. It's quick and easy to use! [Download now](https://play.google.com/store/apps/details?id=xyz.skrawlr.lovelyday) and access your horoscope with daily weekly and monthly predictions in literally just on click!  </b>☯️  
   
 ☀️All sun signs are avalaible, discover your own by entering your birthday in Lovely Day, Horoscope. 🌙  
   
@@ -31,9 +31,12 @@ Step 2. Read your horoscope
 Step 3. Be amazed  
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐ if this project helped you! And rate ⭐⭐⭐⭐⭐ on [Google Play](https://play.google.com/store/apps/details?id=xyz.skrawlr.lovelyday)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
