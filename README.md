@@ -1,3 +1,5 @@
+# Lovely Day
+
 🕉️ <b>Lovely Day, Horoscope is a beautiful and minimalist horoscope app. It's quick and easy to use! Download now and access your horoscope with daily weekly and monthly predictions in literally just on click!  </b>☯️
 
 ☀️All sun signs are avalaible, discover your own by entering your birthday in Lovely Day, Horoscope. 🌙
@@ -17,3 +19,21 @@
 ♈ Aries, ♉ Taurus, ♊ Gemini, ♋ Cancer, ♌ Leo, ♍ Virgo,♎ Libra, ♏ Scorpio, ♐ Sagittarius, ♑ Capricorn, ♒ Aquarius and ♓ Pisces.
 
 🕉️ <b>Lovely Day, Horoscope is a must have. It's beautiful and minimalist and it's quick and easy to use! Get it now and enjoy your horoscope with daily, weekly and monthly predictions in literally just one click!</b> ☯️
+
+## Installation
+
+Install it from [Google Play](https://play.google.com/store/apps/details?id=xyz.skrawlr.lovelyday)
+
+## Usage
+
+Step 1. Open the app
+Step 2. Read your horoscope
+Step 3. Be amazed
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
