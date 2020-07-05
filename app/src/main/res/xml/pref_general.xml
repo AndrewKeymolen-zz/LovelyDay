@@ -1,0 +1,60 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="pref_key_general_settings"
+        android:title="@string/pref_header_general">
+
+        <Preference
+            android:defaultValue="1900-01-01"
+            android:key="btnDateFilter"
+            android:summary="Set your date of birth"
+            android:title="Date of birth" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="pref_key_notifications_settings"
+        android:title="@string/pref_header_notifications">
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="pref_key_notification_activation"
+            android:summary="Activate or deactivate the notification you get when a new prediction is available"
+            android:title="@string/pref_title_new_prediction_notifications" />
+
+        <Preference
+            android:defaultValue="10:00"
+            android:dependency="pref_key_notification_activation"
+            android:key="btnTimeFilter"
+            android:summary="Choose the time at which you will get notified of a newly available prediction"
+            android:title="@string/pref_title_notification_time" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="pref_key_other_settings"
+        android:title="@string/pref_header_other">
+
+        <Preference
+            android:key="btnAboutUs"
+            android:summary="Author: Andrew Keymolen, Version: 1.13, Contact infos: andrewkeymolen@gmail.com"
+            android:title="About Lovely Day" />
+
+        <Preference
+            android:key="btnPrivacy"
+            android:summary="Read our privacy policy"
+            android:title="Privacy Policy" />
+
+        <Preference
+            android:key="btnRate"
+            android:summary="Thanks for your support!"
+            android:title="Rate Lovely Day" />
+
+        <!--<Preference-->
+            <!--android:key="btnBuy"-->
+            <!--android:summary="Pay a one time fee and get rid of the ads for life!"-->
+            <!--android:title="Get rid of the ads" />-->
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

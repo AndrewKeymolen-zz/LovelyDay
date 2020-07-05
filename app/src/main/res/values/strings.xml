@@ -1,0 +1,234 @@
+<resources>
+    <string name="app_name">Lovely Day</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="pref_sortBy_liked">likes</string>
+    <string name="pref_sortBy_key">pref_sortBy_key</string>
+    <string name="pref_sortBy_date">date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lovely_day">day</string>
+    <string name="lovely_week">week</string>
+    <string name="lovely_month">month</string>
+    <string name="pref_sign_key">pref_sign_key</string>
+    <string name="aries">aries</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="pref_lastUpdate_key">pref_lastUpdate_key</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="monthes_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="days_array31">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="days_array30">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="days_array29">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+    </string-array>
+
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_prediction_notifications">New prediction notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="pref_title_notification_time">Notification time</string>
+    <string name="date_of_birth">date_of_birth</string>
+    <string name="pref_notification_time">pref_notification_time</string>
+    <string name="pref_birth_date">pref_birth_date</string>
+    <string name="pref_sign">pref_sign</string>
+    <string name="your_sign_is">Your sign is</string>
+    <string name="pref_key_notification_activation">pref_key_notification_activation</string>
+    <string name="notification_title">Lovely Day</string>
+    <string name="notification_text">A new prediction is available!</string>
+    <string name="app_logo">app logo</string>
+    <string name="welcome_message">Welcome to Lovely Day, a minimalistic and easy to use astrology app. Please select your birthdate on the next screen and then come back daily to discover your new prediction!</string>
+    <string name="message_delete">Do you want to permanently delete this prediction?</string>
+    <string name="date_last_launch">date_last_launch</string>
+    <string name="please_select_your_birthday">Please select your birthday:</string>
+    <string name="RATING_ASKED">RATING_ASKED</string>
+    <string name="FIRST_LAUNCH">FIRST_LAUNCH</string>
+    <string name="rate_lovely_day">Rate Lovely Day</string>
+    <string name="pref_header_other">Other</string>
+    <string name="buy_lovely_day">Get rid of the ads</string>
+    <string name="about_lovely_day">About Lovely Day</string>
+    <string name="about">Author: Skrawlr \nVersion: 1.13 \n\nAPI used: tapasweni-pathak/Horoscope-API under an MIT Licence: \n\n\"The MIT License (MIT) \n\nCopyright © 2018 Tapasweni Pathak\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\"</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy"> Andrew Keymolen built the LovelyDay app as an Open Source app. This SERVICE is provided by Andrew Keymolen at no cost and is intended for use as is. \n \n This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. \n \n If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. \n \n The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at LovelyDay unless otherwise defined in this Privacy Policy. \n \n Information Collection and Use\n \n For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. \n \n The app does use third party services that may collect information used to identify you. \n \n Link to privacy policy of third party service providers used by the app\n \n • Google Play Services\n \n Log Data\n \n I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics. \n \n Cookies\n \n Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\'s internal memory. \n \n This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. \n \n Service Providers\n \n I may employ third–party companies and individuals due to the following reasons: \n \n • To facilitate our Service; \n • To provide the Service on our behalf; \n • To perform Service–related services; or \n • To assist us in analyzing how our Service is used. \n \n I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. \n \n Security\n \n I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security. \n \n Links to Other Sites\n \n This Service may contain links to other sites. If you click on a third–party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third–party sites or services. \n \n Children’s Privacy\n \n These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions. \n \n Changes to This Privacy Policy\n \n I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. \n \n This policy is effective as of 2020–07–05\n \n Contact Us\n \n If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at andrewkeymolen@gmail.com. \n \n</string>
+    <string name="welcome">Welcome!</string>
+    <string name="welcome_to_lovely_day_a_minimalistic_and_easy_to_use_astrology_app_please_select_your_birthdate">Welcome to Lovely Day, a minimalistic and easy to use astrology app. Please select your birthdate:</string>
+    <string name="Please_select_your_birthdate">Please select your birthdate:</string>
+</resources>
